@@ -25,7 +25,7 @@ const sendMail = async () => {
         style="width: 100%"
       />
       <p>Sosial Account</p>
-      <a href="https://github.com/DDV2412">Link GitHub</a>
+      <a href="https://github.com/DDV2412/challenge-9">Link GitHub</a>
     </div>
     <style>
       .main {
